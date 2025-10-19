@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Ian! 👋
+---
 
-<!--
-**Ianszzkieyyy/Ianszzkieyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am an aspiring Full Stack Software Engineer. Currently a Junior from Bulacan State University (Philippines) studying Computer Engineering. 
 
-Here are some ideas to get you started:
+I am passionate about computers and the emerging technologies that are shaping the way we live today.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I not only love creating software, but I also take pride in partaking in the challenges it took to architect them.
+
+I have come to love the cycle of learning, failing, and trying again,.
+
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,tailwind,mongodb,postgres,express,html,css,js,python,java,c,cpp,php" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
