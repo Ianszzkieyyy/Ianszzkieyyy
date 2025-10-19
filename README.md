@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ianszzkieyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ianszzkieyyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Ian's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ianszzkieyyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
   </a>
   <a href="https://github.com/Ianszzkieyyy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianszzkieyyy&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
