@@ -1,14 +1,7 @@
 # Hi there, I'm Ian! 👋
-
 <p align="center">
-  <a href="https://github.com/Ianszzkieyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ianszzkieyyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ianszzkieyyy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianszzkieyyy&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
-  </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswMmQ3aHk1bnNibzBxdmdwdXg3cHNkcmV1ZTc2ZHR3d2JocWY0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Coding GIF"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -35,6 +28,15 @@ I'm passionate about emerging technologies and the way they shape our world. I d
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,tailwind,mongodb,postgres,express,html,css,js,python,java,c,cpp,php&perline=8"
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ianszzkieyyy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ianszzkieyyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ianszzkieyyy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianszzkieyyy&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
   </a>
 </p>
 
