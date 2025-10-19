@@ -13,7 +13,7 @@ I have come to love the cycle of learning, failing, and trying again,.
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,tailwind,mongodb,postgres,express,html,css,js,python,java,c,cpp,php" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,tailwind,mongodb,postgres,express,html,css,js,python,java,c,cpp,php&perline=8"
   </a>
 </p>
 
