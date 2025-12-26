@@ -10,11 +10,11 @@ I'm passionate about emerging technologies and the way they shape our world. I d
 *Here are a few projects I'm proud of. Check out my repositories tab for more!*
 
 <p align="left">
-  <a href="https://github.com/Ianszzkieyyy/prepple-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ianszzkieyyy&repo=prepple-ai&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
+  <a href="https://github.com/CPE3A-agustin-iankenneth/prepple-ai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CPE3A-agustin-iankenneth&repo=prepple-ai&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
   </a>
-  <a href="https://github.com/Ianszzkieyyy/momento-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ianszzkieyyy&repo=momento-app&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
+  <a href="https://github.com/CPE3A-agustin-iankenneth/momento-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CPE3A-agustin-iankenneth&repo=momento-app&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
   </a>
 </p>
 
@@ -28,11 +28,11 @@ I'm passionate about emerging technologies and the way they shape our world. I d
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ianszzkieyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ianszzkieyyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
+  <a href="https://github.com/CPE3A-agustin-iankenneth">
+    <img src="https://github-readme-stats.vercel.app/api?username=CPE3A-agustin-iankenneth&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
   </a>
-  <a href="https://github.com/Ianszzkieyyy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianszzkieyyy&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
+  <a href="https://github.com/CPE3A-agustin-iankenneth">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPE3A-agustin-iankenneth&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
   </a>
 </p>
 
