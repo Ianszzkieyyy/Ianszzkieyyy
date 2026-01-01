@@ -6,33 +6,12 @@ I'm an aspiring **Full Stack Software Engineer** and a current Computer Engineer
 
 I'm passionate about emerging technologies and the way they shape our world. I don't just love *creating* software; I take pride in the *challenges* of architecting it. For me, the cycle of learning, failing, and trying again is the most rewarding part of the journey.
 
-## 🚀 My Featured Projects
-*Here are a few projects I'm proud of. Check out my repositories tab for more!*
-
-<p align="left">
-  <a href="https://github.com/CPE3A-agustin-iankenneth/prepple-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CPE3A-agustin-iankenneth&repo=prepple-ai&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
-  </a>
-  <a href="https://github.com/CPE3A-agustin-iankenneth/momento-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CPE3A-agustin-iankenneth&repo=momento-app&theme=radical&hide_border=true&title_color=A6E3A1&text_color=CDD6F4" />
-  </a>
-</p>
-
 ---
 
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,tailwind,mongodb,postgres,express,html,css,js,python,java,c,cpp,php&perline=8"
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CPE3A-agustin-iankenneth">
-    <img src="https://github-readme-stats.vercel.app/api?username=CPE3A-agustin-iankenneth&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="Ian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/CPE3A-agustin-iankenneth">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPE3A-agustin-iankenneth&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
   </a>
 </p>
 
